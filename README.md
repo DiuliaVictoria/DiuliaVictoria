@@ -1,4 +1,4 @@
-## Ola eu sou a Diulia Victória, Estudante de ADS na SpTech!
+## Olá eu sou a Diulia Victória, estudante de ADS na SpTech!
 Atualmente sou analista de QA e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
 <div align="center">
   <a href="https://github.com/DiuliaVictoria">
