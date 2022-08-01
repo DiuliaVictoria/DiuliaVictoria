@@ -1,3 +1,5 @@
+<div><img src="https://user-images.githubusercontent.com/99891435/182173740-63d2adb3-dcc1-48a4-93a3-a94d8d9aae3e.png"></div>
+
 ## Olá eu sou a Diulia Victória, estudante de ADS na SpTech!
 Atualmente sou analista de QA e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
 <div align="center">
