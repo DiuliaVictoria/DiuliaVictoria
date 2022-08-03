@@ -41,6 +41,6 @@ Atualmente sou analista de QA e estudante de Análise e Desenvolvimento de siste
  <a href = "mailto:diulia.santos@boxdelivery.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/diulia-vict%C3%B3ria-504857201" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-![Snake animation](https://github.com/kauan-mendes/kauan-mendes/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/DiuliaVictoria/DiuliaVictoria/blob/output/github-contribution-grid-snake.svg)
 
 </div>
