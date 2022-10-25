@@ -1,7 +1,7 @@
 <div><img src="https://i.imgur.com/iHHVt5I.gif"></div>
 
 ## Olá eu sou a Diulia Victória, estudante de ADS na SpTech!
-Atualmente sou analista de QA e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
+Atualmente sou estagiaria de front-end e estudante de Análise e Desenvolvimento de sistemas pela São Paulo Tech School. <br>
 <div align="center">
   <a href="https://github.com/DiuliaVictoria">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiuliaVictoria&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
@@ -29,7 +29,7 @@ Atualmente sou analista de QA e estudante de Análise e Desenvolvimento de siste
   
 </div>
   
-   ## Analista de QA na
+   ## Estagiaria na
   <img align="center" alt="Diulia-Git" src="https://i0.wp.com/teste708191542.wpcomstaging.com/wp-content/uploads/2022/05/Box-Delivery.png?fit=2000%2C2000&ssl=1" height="30" width="40"/>
   
   
